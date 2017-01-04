@@ -57,11 +57,11 @@ public class MainActivity extends AppCompatActivity {
 //        switch(view.getId()) {
 //            case R.id.radio_works:
 //                if (checked)
-//                    // Pirates are the best
+//                    // works endpoint
 //                    break;
 //            case R.id.radio_people:
 //                if (checked)
-//                    // Ninjas rule
+//                    // people endpoint
 //                    break;
 //        }
 //    }
